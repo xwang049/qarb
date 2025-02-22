@@ -1,5 +1,8 @@
 # qarb
 A Framework for Data-Driven Mathematical Modeling &amp; Scalable Computation, based on Quantitative portfolio management : the art and science of statistical arbitrage
+
+
+
 🚀 Key Features:
 
 Quant-First Design: Native support for stochastic calculus, time series analysis, and Monte Carlo methods.
